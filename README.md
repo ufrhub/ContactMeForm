@@ -20,22 +20,22 @@ A beautifully designed, responsive **Contact Me Form** created with HTML, CSS, a
 ## 🎨 Screenshots
 
 ### Form View
-![Form Image Pc]("./Images/Image_1.png")
+![Form Image Pc]("Images/Image_1.png")
 
 ### Custom Dropdown
-![Form Image Pc Country Code Dropdown]("./Images/Image_2.png")
+![Form Image Pc Country Code Dropdown]("Images/Image_2.png")
 
 ### Form Validation
-![Form Image Pc Validation]("./Images/Image_3.png")
+![Form Image Pc Validation]("Images/Image_3.png")
 
 ### On Successful Input
-![Form Image Pc Successful Input Style]("./Images/Image_5.png")
+![Form Image Pc Successful Input Style]("Images/Image_5.png")
 
 ### Custom Loader
-![Form Image Pc Loader]("./Images/Image_5.png")
+![Form Image Pc Loader]("Images/Image_5.png")
 
 ### On Phone
-![Form Image Phone]("./Images/Image_4.png")
+![Form Image Phone]("Images/Image_4.png")
 
 1. Clone the repository:
    ```bash
