@@ -39,4 +39,7 @@ A beautifully designed, responsive **Contact Me Form** created with HTML, CSS, a
 
 1. Clone the repository:
    ```bash
+<<<<<<< HEAD
+   git clone https://github.com/ufrhub/ContactMeForm.git
+=======
    git clone https://github.com/ufrhub/ContactMeForm.git
